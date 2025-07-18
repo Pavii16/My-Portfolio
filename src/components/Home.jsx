@@ -16,6 +16,7 @@ const Home = () => {
             <Typewriter
               options={{
                 strings: [
+                  "Network Engineer",
                   "Java Devloper",
                   "Web Developer",
                   "Software Developer"
@@ -29,9 +30,9 @@ const Home = () => {
           </h2>
           {/* About Me */}
           <p className="text-lg md:text-xl text-gray-700 font-medium">
-            A Passionate and detail-oriented developer.
-            I love creating smart solutions that make a real difference.
-            Always eager to learn, grow, and take on new challenges.
+            A passionate and detail-oriented networking enthusiast.
+I enjoy configuring and understanding systems that keep the world connected.
+Always eager to learn, troubleshoot, and grow through real-time challenges.
           </p>
 
           {/* Contact Information */}
@@ -51,7 +52,7 @@ const Home = () => {
           </div>
           {/* Button */}
           <div className="bg-[#6ea655] px-5 py-2 rounded-2xl font-bold ">
-            <a href="https://drive.google.com/file/d/14-5RvCdCminRtuphoc2TbEyFJSeU20JM/view?usp=sharing">Download CV</a>
+            <a href="https://drive.google.com/file/d/16QhhWF0TOnc9sb4vc-wpLj8hGbfM2zhS/view?usp=sharing">Download CV</a>
           </div>
         </div>
 
