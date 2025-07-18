@@ -12,7 +12,7 @@ const Header = () => {
         {/* Logo */}
         <div>
           <h1 className="text-[2.5rem] text-[#000]  hover:text-[#6ea655] ">
-            Pavithra.
+            Hello..!
           </h1>
         </div>
 
